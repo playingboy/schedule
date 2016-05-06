@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="C:\Users\jesse\AndroidStudioProjects\Schedule\app\src\main\res"><file name="leftbutton" path="C:\Users\jesse\AndroidStudioProjects\Schedule\app\src\main\res\drawable\leftbutton.xml" qualifiers="" type="drawable"/><file name="rightbutton" path="C:\Users\jesse\AndroidStudioProjects\Schedule\app\src\main\res\drawable\rightbutton.xml" qualifiers="" type="drawable"/><file name="a11_12" path="C:\Users\jesse\AndroidStudioProjects\Schedule\app\src\main\res\drawable-hdpi\a11_12.png" qualifiers="hdpi-v4" type="drawable"/><file name="a1_2" path="C:\Users\jesse\AndroidStudioProjects\Schedule\app\src\main\res\drawable-hdpi\a1_2.png" qualifiers="hdpi-v4" type="drawable"/><file name="a3_4" path="C:\Users\jesse\AndroidStudioProjects\Schedule\app\src\main\res\drawable-hdpi\a3_4.png" qualifiers="hdpi-v4" type="drawable"/><file name="a5_6" path="C:\Users\jesse\AndroidStudioProjects\Schedule\app\src\main\res\drawable-hdpi\a5_6.png" qualifiers="hdpi-v4" type="drawable"/><file name="a7_8" path="C:\Users\jesse\AndroidStudioProjects\Schedule\app\src\main\res\drawable-hdpi\a7_8.png" qualifiers="hdpi-v4" type="drawable"/><file name="a9_10" path="C:\Users\jesse\AndroidStudioProjects\Schedule\app\src\main\res\drawable-hdpi\a9_10.png" qualifiers="hdpi-v4" type="drawable"/><file name="bg2" path="C:\Users\jesse\AndroidStudioProjects\Schedule\app\src\main\res\drawable-hdpi\bg2.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="bg3" path="C:\Users\jesse\AndroidStudioProjects\Schedule\app\src\main\res\drawable-hdpi\bg3.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="bg4" path="C:\Users\jesse\AndroidStudioProjects\Schedule\app\src\main\res\drawable-hdpi\bg4.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="bg_cal_card9" path="C:\Users\jesse\AndroidStudioProjects\Schedule\app\src\main\res\drawable-hdpi\bg_cal_card9.png" qualifiers="hdpi-v4" type="drawable"/><file name="bg_hdpi" path="C:\Users\jesse\AndroidStudioProjects\Schedule\app\src\main\res\drawable-hdpi\bg_hdpi.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="icon" path="C:\Users\jesse\AndroidStudioProjects\Schedule\app\src\main\res\drawable-hdpi\icon.png" qualifiers="hdpi-v4" type="drawable"/><file name="icon2" path="C:\Users\jesse\AndroidStudioProjects\Schedule\app\src\main\res\drawable-hdpi\icon2.png" qualifiers="hdpi-v4" type="drawable"/><file name="icon2_down" path="C:\Users\jesse\AndroidStudioProjects\Schedule\app\src\main\res\drawable-hdpi\icon2_down.png" qualifiers="hdpi-v4" type="drawable"/><file name="icon3" path="C:\Users\jesse\AndroidStudioProjects\Schedule\app\src\main\res\drawable-hdpi\icon3.png" qualifiers="hdpi-v4" type="drawable"/><file name="icon3_down" path="C:\Users\jesse\AndroidStudioProjects\Schedule\app\src\main\res\drawable-hdpi\icon3_down.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_repeat_dark" path="C:\Users\jesse\AndroidStudioProjects\Schedule\app\src\main\res\drawable-hdpi\ic_repeat_dark.png" qualifiers="hdpi-v4" type="drawable"/><file name="a11_12" path="C:\Users\jesse\AndroidStudioProjects\Schedule\app\src\main\res\drawable-ldpi\a11_12.png" qualifiers="ldpi-v4" type="drawable"/><file name="a1_2" path="C:\Users\jesse\AndroidStudioProjects\Schedule\app\src\main\res\drawable-ldpi\a1_2.png" qualifiers="ldpi-v4" type="drawable"/><file name="a3_4" path="C:\Users\jesse\AndroidStudioProjects\Schedule\app\src\main\res\drawable-ldpi\a3_4.png" qualifiers="ldpi-v4" type="drawable"/><file name="a5_6" path="C:\Users\jesse\AndroidStudioProjects\Schedule\app\src\main\res\drawable-ldpi\a5_6.png" qualifiers="ldpi-v4" type="drawable"/><file name="a7_8" path="C:\Users\jesse\AndroidStudioProjects\Schedule\app\src\main\res\drawable-ldpi\a7_8.png" qualifiers="ldpi-v4" type="drawable"/><file name="a9_10" path="C:\Users\jesse\AndroidStudioProjects\Schedule\app\src\main\res\drawable-ldpi\a9_10.png" qualifiers="ldpi-v4" type="drawable"/><file name="default_bg" path="C:\Users\jesse\AndroidStudioProjects\Schedule\app\src\main\res\drawable-ldpi\default_bg.jpg" qualifiers="ldpi-v4" type="drawable"/><file name="icon" path="C:\Users\jesse\AndroidStudioProjects\Schedule\app\src\main\res\drawable-ldpi\icon.png" qualifiers="ldpi-v4" type="drawable"/><file name="a11_12" path="C:\Users\jesse\AndroidStudioProjects\Schedule\app\src\main\res\drawable-mdpi\a11_12.png" qualifiers="mdpi-v4" type="drawable"/><file name="a1_2" path="C:\Users\jesse\AndroidStudioProjects\Schedule\app\src\main\res\drawable-mdpi\a1_2.png" qualifiers="mdpi-v4" type="drawable"/><file name="a3_4" path="C:\Users\jesse\AndroidStudioProjects\Schedule\app\src\main\res\drawable-mdpi\a3_4.png" qualifiers="mdpi-v4" type="drawable"/><file name="a5_6" path="C:\Users\jesse\AndroidStudioProjects\Schedule\app\src\main\res\drawable-mdpi\a5_6.png" qualifiers="mdpi-v4" type="drawable"/><file name="a7_8" path="C:\Users\jesse\AndroidStudioProjects\Schedule\app\src\main\res\drawable-mdpi\a7_8.png" qualifiers="mdpi-v4" type="drawable"/><file name="a9_10" path="C:\Users\jesse\AndroidStudioProjects\Schedule\app\src\main\res\drawable-mdpi\a9_10.png" qualifiers="mdpi-v4" type="drawable"/><file name="alarm" path="C:\Users\jesse\AndroidStudioProjects\Schedule\app\src\main\res\drawable-mdpi\alarm.png" qualifiers="mdpi-v4" type="drawable"/><file name="calendar" path="C:\Users\jesse\AndroidStudioProjects\Schedule\app\src\main\res\drawable-mdpi\calendar.png" qualifiers="mdpi-v4" type="drawable"/><file name="camera" path="C:\Users\jesse\AndroidStudioProjects\Schedule\app\src\main\res\drawable-mdpi\camera.png" qualifiers="mdpi-v4" type="drawable"/><file name="clock" path="C:\Users\jesse\AndroidStudioProjects\Schedule\app\src\main\res\drawable-mdpi\clock.png" qualifiers="mdpi-v4" type="drawable"/><file name="close" path="C:\Users\jesse\AndroidStudioProjects\Schedule\app\src\main\res\drawable-mdpi\close.png" qualifiers="mdpi-v4" type="drawable"/><file name="default_bg" path="C:\Users\jesse\AndroidStudioProjects\Schedule\app\src\main\res\drawable-mdpi\default_bg.jpg" qualifiers="mdpi-v4" type="drawable"/><file name="icon" path="C:\Users\jesse\AndroidStudioProjects\Schedule\app\src\main\res\drawable-mdpi\icon.png" qualifiers="mdpi-v4" type="drawable"/><file name="music" path="C:\Users\jesse\AndroidStudioProjects\Schedule\app\src\main\res\drawable-mdpi\music.png" qualifiers="mdpi-v4" type="drawable"/><file name="open" path="C:\Users\jesse\AndroidStudioProjects\Schedule\app\src\main\res\drawable-mdpi\open.png" qualifiers="mdpi-v4" type="drawable"/><file name="openbg" path="C:\Users\jesse\AndroidStudioProjects\Schedule\app\src\main\res\drawable-mdpi\openbg.png" qualifiers="mdpi-v4" type="drawable"/><file name="tv" path="C:\Users\jesse\AndroidStudioProjects\Schedule\app\src\main\res\drawable-mdpi\tv.png" qualifiers="mdpi-v4" type="drawable"/><file name="about" path="C:\Users\jesse\AndroidStudioProjects\Schedule\app\src\main\res\layout\about.xml" qualifiers="" type="layout"/><file name="clock" path="C:\Users\jesse\AndroidStudioProjects\Schedule\app\src\main\res\layout\clock.xml" qualifiers="" type="layout"/><file name="grid" path="C:\Users\jesse\AndroidStudioProjects\Schedule\app\src\main\res\layout\grid.xml" qualifiers="" type="layout"/><file name="leading_in" path="C:\Users\jesse\AndroidStudioProjects\Schedule\app\src\main\res\layout\leading_in.xml" qualifiers="" type="layout"/><file name="logo" path="C:\Users\jesse\AndroidStudioProjects\Schedule\app\src\main\res\layout\logo.xml" qualifiers="" type="layout"/><file name="main" path="C:\Users\jesse\AndroidStudioProjects\Schedule\app\src\main\res\layout\main.xml" qualifiers="" type="layout"/><file name="schedule_appwidget" path="C:\Users\jesse\AndroidStudioProjects\Schedule\app\src\main\res\layout\schedule_appwidget.xml" qualifiers="" type="layout"/><file name="term" path="C:\Users\jesse\AndroidStudioProjects\Schedule\app\src\main\res\layout\term.xml" qualifiers="" type="layout"/><file name="option_menu" path="C:\Users\jesse\AndroidStudioProjects\Schedule\app\src\main\res\menu\option_menu.xml" qualifiers="" type="menu"/><file path="C:\Users\jesse\AndroidStudioProjects\Schedule\app\src\main\res\values\array.xml" qualifiers=""><string-array name="auto_update_frequency_value">
+		<item>1</item>
+		<item>2</item>
+		<item>3</item>
+		<item>4</item>
+		<item>5</item>
+		<item>6</item>
+		<item>0</item>	
+	</string-array><string-array name="auto_update_frequency_entry">
+		<item>星期一</item>
+		<item>星期二</item>
+		<item>星期三</item>
+		<item>星期四</item>
+		<item>星期五</item>	
+		<item>星期六</item>	
+		<item>星期日</item>	
+	</string-array></file><file path="C:\Users\jesse\AndroidStudioProjects\Schedule\app\src\main\res\values\bg.xml" qualifiers=""><string-array name="bg_value">
+		<item>水花</item>
+		<item>星空</item>
+		<item>海岸-明</item>
+		<item>海岸-暗</item>
+	</string-array><string-array name="bg_entry">
+		<item>水花</item>
+		<item>星空</item>
+		<item>海岸-明</item>
+		<item>海岸-暗</item>
+	</string-array></file><file path="C:\Users\jesse\AndroidStudioProjects\Schedule\app\src\main\res\values\classno.xml" qualifiers=""><string-array name="classno_entry">
+		<item>1-2</item>
+		<item>3-4</item>
+		<item>5-6</item>
+		<item>7-8</item>
+		<item>9-10</item>	
+		<item>11-12</item>	
+	</string-array><string-array name="classno_value">
+		<item>1-2</item>
+		<item>3-4</item>
+		<item>5-6</item>
+		<item>7-8</item>
+		<item>9-10</item>	
+		<item>11-12</item>	
+	</string-array></file><file path="C:\Users\jesse\AndroidStudioProjects\Schedule\app\src\main\res\values\color.xml" qualifiers=""><drawable name="darkgray">#808080</drawable><drawable name="white">#FFFFFF</drawable><drawable name="black">#000000</drawable></file><file path="C:\Users\jesse\AndroidStudioProjects\Schedule\app\src\main\res\values\strings.xml" qualifiers=""><string name="app_name_cn">重庆大学课表</string><string name="auto_update_frequency_title">选择星期</string><string name="class_no_key">class_no</string><string name="leading_in">导入</string><string name="yes">确定</string><string name="aboutweb">www.baiyun.net</string><string name="class_no_title">选择课节</string><string name="set">设置</string><string name="bg_key">bg</string><string name="class_start_week_key">class_start_week</string><string name="bg_default_value">0</string><string name="class_start_week_default_value">1</string><string name="class_end_week_default_value">1</string><string name="exit">退出</string><string name="classdetail_key">classdetail</string><string name="classdetail_title">课程详情</string><string name="auto_update_frequency_default_value">10</string><string name="about">关于</string><string name="hello">Hello World, Main!</string><string name="auto_update_frequency_summary"/><string name="class_end_week_key">class_end_week</string><string name="auto_update_frequency_key">auto_update_frequency</string><string name="class_no_default_value">1-2</string><string name="aboutcontent">重庆大学课表-0.1Beta版</string><string name="class_end_week_title">选择结束周</string><string name="app_name">重庆大学课表</string><string name="cancel">取消</string><string name="class_address">地点</string><string name="view_6">view_6</string><string name="startterm_set">设置开学日期</string><string name="bg_title">背景</string><string name="view_4">view_4</string><string name="now">   今天课程</string><string name="view_5">view_5</string><string name="startterm_key">startterm</string><string name="editclass">编辑课表</string><string name="reload">刷新</string><string name="class_start_week_title">选择开始周</string><string name="class_name">名称</string><string name="view_2">view_2</string><string name="view_3">view_3</string><string name="startterm">开学日期</string><string name="system_set">设置</string><string name="view_1">view_1</string></file><file path="C:\Users\jesse\AndroidStudioProjects\Schedule\app\src\main\res\values\style.xml" qualifiers=""><style name="content">
+         <item name="android:layout_gravity">center_vertical</item>
+         <item name="android:layout_width">0dp</item>
+         <item name="android:layout_height">wrap_content</item>
+         <item name="android:layout_weight">1</item>
+         <item name="android:padding">4dip</item>
+         <item name="android:textStyle">bold</item>
+         <item name="android:textColor">#000000</item>
+         <item name="android:shadowColor">#CCCCCC</item>
+         <item name="android:shadowDx">1</item>
+         <item name="android:shadowDy">1</item>
+         <item name="android:shadowRadius">1</item>
+     </style><style name="bg2">
+          <item name="android:background">@drawable/bg2</item>
+     </style><style name="bg1">
+         <item name="android:background">@drawable/bg_hdpi</item>
+     </style><style name="bg4">
+         <item name="android:background">@drawable/bg4</item>
+     </style><style name="bg3">
+         <item name="android:background">@drawable/bg3</item>
+     </style><style name="no">
+         <item name="android:layout_gravity">center_vertical</item>
+         <item name="android:layout_width">0dp</item>
+         <item name="android:layout_height">wrap_content</item>
+         <item name="android:layout_weight">1</item>
+         <item name="android:textStyle">bold</item>
+         <item name="android:textColor">#ccccff</item>
+         <item name="android:shadowRadius">1</item>
+     </style></file><file path="C:\Users\jesse\AndroidStudioProjects\Schedule\app\src\main\res\values\weeks_end.xml" qualifiers=""><string-array name="weeks_end_value">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+    </string-array><string-array name="weeks_end_entry">
+        <item>第一周</item>
+        <item>第二周</item>
+        <item>第三周</item>
+        <item>第四周</item>
+        <item>第五周</item>
+        <item>第六周</item>
+        <item>第七周</item>
+        <item>第八周</item>
+        <item>第九周</item>
+        <item>第十周</item>
+        <item>第十一周</item>
+        <item>第十二周</item>
+        <item>第十三周</item>
+        <item>第十四周</item>
+        <item>第十五周</item>
+        <item>第十六周</item>
+        <item>第十七周</item>
+        <item>第十八周</item>
+        <item>第十九周</item>
+        <item>第二十周</item>
+    </string-array></file><file path="C:\Users\jesse\AndroidStudioProjects\Schedule\app\src\main\res\values\weeks_start.xml" qualifiers=""><string-array name="weeks_start_value">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+    </string-array><string-array name="weeks_start_entry">
+        <item>第一周</item>
+        <item>第二周</item>
+        <item>第三周</item>
+        <item>第四周</item>
+        <item>第五周</item>
+        <item>第六周</item>
+        <item>第七周</item>
+        <item>第八周</item>
+        <item>第九周</item>
+        <item>第十周</item>
+        <item>第十一周</item>
+        <item>第十二周</item>
+        <item>第十三周</item>
+        <item>第十四周</item>
+        <item>第十五周</item>
+        <item>第十六周</item>
+        <item>第十七周</item>
+        <item>第十八周</item>
+        <item>第十九周</item>
+        <item>第二十周</item>
+    </string-array></file><file name="preferences" path="C:\Users\jesse\AndroidStudioProjects\Schedule\app\src\main\res\xml\preferences.xml" qualifiers="" type="xml"/><file name="schedulewidget" path="C:\Users\jesse\AndroidStudioProjects\Schedule\app\src\main\res\xml\schedulewidget.xml" qualifiers="" type="xml"/><file name="systemset" path="C:\Users\jesse\AndroidStudioProjects\Schedule\app\src\main\res\xml\systemset.xml" qualifiers="" type="xml"/><file name="viewpreferences" path="C:\Users\jesse\AndroidStudioProjects\Schedule\app\src\main\res\xml\viewpreferences.xml" qualifiers="" type="xml"/></source><source path="C:\Users\jesse\AndroidStudioProjects\Schedule\app\build\generated\res\rs\debug"/><source path="C:\Users\jesse\AndroidStudioProjects\Schedule\app\build\generated\res\generated\debug"/></dataSet><dataSet config="debug"><source path="C:\Users\jesse\AndroidStudioProjects\Schedule\app\src\debug\res"/></dataSet><mergedItems/></merger>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="net.iyouyu.schedule"
+    android:versionCode="1"
+    android:versionName="0.3" >
+
+    <uses-sdk
+        android:minSdkVersion="4"
+        android:targetSdkVersion="4" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <!-- <uses-sdk android:minSdkVersion="7" /> -->
+    <application
+        android:icon="@drawable/icon"
+        android:label="@string/app_name" >
+        <activity
+            android:name="net.iyouyu.schedule.Main"
+            android:label="@string/app_name_cn" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="net.iyouyu.schedule.About"
+            android:label="@string/about"
+            android:theme="@android:style/Theme.Dialog" />
+        <activity android:name="net.iyouyu.schedule.LeadingIn" />
+        <!--
+            android:label="@string/leading_in"
+                    android:theme="@android:style/Theme.Dialog"
+        -->
+        <activity android:name="net.iyouyu.schedule.Settings" />
+        <activity android:name="net.iyouyu.schedule.View" />
+        <activity android:name="net.iyouyu.schedule.SystemSet" />
+        <!-- <activity android:name=".Link"/> -->
+        <activity android:name="net.iyouyu.schedule.TermSet" />
+        <activity
+            android:name="net.iyouyu.schedule.GetData"
+            android:theme="@android:style/Theme.Dialog" />
+        <activity android:name="net.iyouyu.schedule.remind" />
+        <activity android:name="net.iyouyu.schedule.AlarmActivity" />
+        <!-- android:process=":remote": 新开一个进程 -->
+        <receiver
+            android:name="net.iyouyu.schedule.AlarmReceiver"
+            android:process=":remote" />
+        <!--
+        <receiver android:name="ScheduleAppWidgetProvider">
+            <intent-filter>
+                <action android:name="android.appwidget.action.APPWIDGET_UPDATE" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="net.iyouyu.schedule.UPDATE_APP_WIDGET" />
+            </intent-filter>
+            <meta-data android:name="android.appwidget.provider"
+                android:resource="@xml/schedulewidget" />
+        </receiver>
+        -->
+    </application>
+
+</manifest>

@@ -1,0 +1,2 @@
+C:\Users\jesse\AndroidStudioProjects\Schedule\app\build\intermediates\classes\debug
+C:\Users\jesse\AndroidStudioProjects\Schedule\app\build\intermediates\pre-dexed\debug\jsoup-1.7.2-4fee8c63c117a4259f85999be4c3fb11c0abba18.jar

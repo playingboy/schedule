@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/C:/Users/jesse/AndroidStudioProjects/Schedule/app/src/main/res/values/array.xml -->
+    <eat-comment/>
+    <string-array name="auto_update_frequency_entry">
+		<item>星期一</item>
+		<item>星期二</item>
+		<item>星期三</item>
+		<item>星期四</item>
+		<item>星期五</item>	
+		<item>星期六</item>	
+		<item>星期日</item>	
+	</string-array>
+    <string-array name="auto_update_frequency_value">
+		<item>1</item>
+		<item>2</item>
+		<item>3</item>
+		<item>4</item>
+		<item>5</item>
+		<item>6</item>
+		<item>0</item>	
+	</string-array>
+    <!-- From: file:/C:/Users/jesse/AndroidStudioProjects/Schedule/app/src/main/res/values/bg.xml -->
+    <eat-comment/>
+    <string-array name="bg_entry">
+		<item>水花</item>
+		<item>星空</item>
+		<item>海岸-明</item>
+		<item>海岸-暗</item>
+	</string-array>
+    <string-array name="bg_value">
+		<item>水花</item>
+		<item>星空</item>
+		<item>海岸-明</item>
+		<item>海岸-暗</item>
+	</string-array>
+    <!-- From: file:/C:/Users/jesse/AndroidStudioProjects/Schedule/app/src/main/res/values/classno.xml -->
+    <eat-comment/>
+    <string-array name="classno_entry">
+		<item>1-2</item>
+		<item>3-4</item>
+		<item>5-6</item>
+		<item>7-8</item>
+		<item>9-10</item>	
+		<item>11-12</item>	
+	</string-array>
+    <string-array name="classno_value">
+		<item>1-2</item>
+		<item>3-4</item>
+		<item>5-6</item>
+		<item>7-8</item>
+		<item>9-10</item>	
+		<item>11-12</item>	
+	</string-array>
+    <!-- From: file:/C:/Users/jesse/AndroidStudioProjects/Schedule/app/src/main/res/values/weeks_end.xml -->
+    <eat-comment/>
+    <string-array name="weeks_end_entry">
+        <item>第一周</item>
+        <item>第二周</item>
+        <item>第三周</item>
+        <item>第四周</item>
+        <item>第五周</item>
+        <item>第六周</item>
+        <item>第七周</item>
+        <item>第八周</item>
+        <item>第九周</item>
+        <item>第十周</item>
+        <item>第十一周</item>
+        <item>第十二周</item>
+        <item>第十三周</item>
+        <item>第十四周</item>
+        <item>第十五周</item>
+        <item>第十六周</item>
+        <item>第十七周</item>
+        <item>第十八周</item>
+        <item>第十九周</item>
+        <item>第二十周</item>
+    </string-array>
+    <string-array name="weeks_end_value">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+    </string-array>
+    <!-- From: file:/C:/Users/jesse/AndroidStudioProjects/Schedule/app/src/main/res/values/weeks_start.xml -->
+    <eat-comment/>
+    <string-array name="weeks_start_entry">
+        <item>第一周</item>
+        <item>第二周</item>
+        <item>第三周</item>
+        <item>第四周</item>
+        <item>第五周</item>
+        <item>第六周</item>
+        <item>第七周</item>
+        <item>第八周</item>
+        <item>第九周</item>
+        <item>第十周</item>
+        <item>第十一周</item>
+        <item>第十二周</item>
+        <item>第十三周</item>
+        <item>第十四周</item>
+        <item>第十五周</item>
+        <item>第十六周</item>
+        <item>第十七周</item>
+        <item>第十八周</item>
+        <item>第十九周</item>
+        <item>第二十周</item>
+    </string-array>
+    <string-array name="weeks_start_value">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+    </string-array>
+    <!-- From: file:/C:/Users/jesse/AndroidStudioProjects/Schedule/app/src/main/res/values/color.xml -->
+    <eat-comment/>
+    <drawable name="black">#000000</drawable>
+    <drawable name="darkgray">#808080</drawable>
+    <drawable name="white">#FFFFFF</drawable>
+    <!-- From: file:/C:/Users/jesse/AndroidStudioProjects/Schedule/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="about">关于</string>
+    <string name="aboutcontent">重庆大学课表-0.1Beta版</string>
+    <string name="aboutweb">www.baiyun.net</string>
+    <string name="app_name">重庆大学课表</string>
+    <string name="app_name_cn">重庆大学课表</string>
+    <string name="auto_update_frequency_default_value">10</string>
+    <string name="auto_update_frequency_key">auto_update_frequency</string>
+    <string name="auto_update_frequency_summary"/>
+    <string name="auto_update_frequency_title">选择星期</string>
+    <string name="bg_default_value">0</string>
+    <string name="bg_key">bg</string>
+    <string name="bg_title">背景</string>
+    <string name="cancel">取消</string>
+    <string name="class_address">地点</string>
+    <string name="class_end_week_default_value">1</string>
+    <string name="class_end_week_key">class_end_week</string>
+    <string name="class_end_week_title">选择结束周</string>
+    <string name="class_name">名称</string>
+    <string name="class_no_default_value">1-2</string>
+    <string name="class_no_key">class_no</string>
+    <string name="class_no_title">选择课节</string>
+    <string name="class_start_week_default_value">1</string>
+    <string name="class_start_week_key">class_start_week</string>
+    <string name="class_start_week_title">选择开始周</string>
+    <string name="classdetail_key">classdetail</string>
+    <string name="classdetail_title">课程详情</string>
+    <string name="editclass">编辑课表</string>
+    <string name="exit">退出</string>
+    <string name="hello">Hello World, Main!</string>
+    <string name="leading_in">导入</string>
+    <string name="now">   今天课程</string>
+    <string name="reload">刷新</string>
+    <string name="set">设置</string>
+    <string name="startterm">开学日期</string>
+    <string name="startterm_key">startterm</string>
+    <string name="startterm_set">设置开学日期</string>
+    <string name="system_set">设置</string>
+    <string name="view_1">view_1</string>
+    <string name="view_2">view_2</string>
+    <string name="view_3">view_3</string>
+    <string name="view_4">view_4</string>
+    <string name="view_5">view_5</string>
+    <string name="view_6">view_6</string>
+    <string name="yes">确定</string>
+    <!-- From: file:/C:/Users/jesse/AndroidStudioProjects/Schedule/app/src/main/res/values/style.xml -->
+    <eat-comment/>
+    <style name="bg1">
+         <item name="android:background">@drawable/bg_hdpi</item>
+     </style>
+    <style name="bg2">
+          <item name="android:background">@drawable/bg2</item>
+     </style>
+    <style name="bg3">
+         <item name="android:background">@drawable/bg3</item>
+     </style>
+    <style name="bg4">
+         <item name="android:background">@drawable/bg4</item>
+     </style>
+    <style name="content">
+         <item name="android:layout_gravity">center_vertical</item>
+         <item name="android:layout_width">0dp</item>
+         <item name="android:layout_height">wrap_content</item>
+         <item name="android:layout_weight">1</item>
+         <item name="android:padding">4dip</item>
+         <item name="android:textStyle">bold</item>
+         <item name="android:textColor">#000000</item>
+         <item name="android:shadowColor">#CCCCCC</item>
+         <item name="android:shadowDx">1</item>
+         <item name="android:shadowDy">1</item>
+         <item name="android:shadowRadius">1</item>
+     </style>
+    <style name="no">
+         <item name="android:layout_gravity">center_vertical</item>
+         <item name="android:layout_width">0dp</item>
+         <item name="android:layout_height">wrap_content</item>
+         <item name="android:layout_weight">1</item>
+         <item name="android:textStyle">bold</item>
+         <item name="android:textColor">#ccccff</item>
+         <item name="android:shadowRadius">1</item>
+     </style>
+</resources>

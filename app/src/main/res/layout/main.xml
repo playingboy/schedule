@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="fill_parent" android:layout_height="match_parent" android:orientation="vertical"
+	 android:id="@+id/mainlayout" 
+style="@style/bg1"
+	>
+
+	
+<RelativeLayout  
+  xmlns:android="http://schemas.android.com/apk/res/android" 
+  android:layout_width="fill_parent" 
+  android:layout_height="fill_parent"
+>
+   <TableLayout android:layout_width="fill_parent" android:id="@+id/tableLayout1"
+		android:layout_height="wrap_content" android:stretchColumns="1,2"    >
+		<TableLayout  android:id="@+id/tableLayout2" android:layout_width="wrap_content" android:layout_height="wrap_content">
+		<TableRow android:minHeight="6dip"></TableRow>
+		<TableRow android:gravity="center">
+		 <Button  android:layout_width="wrap_content" android:background="@drawable/leftbutton" android:state_pressed ="@drawable/icon3" android:id="@+id/imageButton_left" android:layout_height="wrap_content"></Button>
+		<TextView android:id="@+id/textviewday" android:text="今日课程 " android:layout_width="fill_parent" android:textSize="12pt" android:padding="3dip" android:textColor="#fff"></TextView>
+		<Button  android:layout_width="wrap_content" android:background="@drawable/rightbutton" android:id="@+id/imageButton_right" android:layout_height="wrap_content"></Button>
+	    </TableRow>
+	    <TableRow android:minHeight="5dip"></TableRow>
+	    </TableLayout>
+		<ImageView android:layout_height="wrap_content" android:layout_width="wrap_content"  android:id="@+id/imageView2"></ImageView>
+		<TableRow>
+			<TextView android:text="课节 " android:padding="3dip"   android:textSize="6.5pt" style="@style/no"></TextView>
+			<TextView android:text="课程" android:textSize="6.5pt"  style="@style/no"></TextView>
+			<TextView android:text="教室" android:padding="3dip"    android:textSize="6.5pt" style="@style/no"></TextView>
+		</TableRow>
+		<ImageView android:layout_height="wrap_content" android:layout_width="wrap_content"  android:id="@+id/imageView1"></ImageView>
+		<TableRow android:minHeight="5dip"></TableRow>
+		<TableRow>
+			<ImageView android:id="@+id/imageView3" android:src="@drawable/a1_2" android:layout_height="wrap_content" android:layout_width="wrap_content"></ImageView>
+			<!-- 
+			<TextView android:text=" 1-2 " android:padding="3dip" android:textColor="#693" android:textSize="6pt" android:textStyle="bold"></TextView>
+			 -->
+			<TextView android:text="TextView" android:textSize="7pt"
+				android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_weight="1"
+				android:id="@+id/textView1" style="@style/content"></TextView>
+			<TextView android:text="TextView" android:textSize="7pt" android:layout_weight="2"
+				android:layout_width="wrap_content" android:layout_height="wrap_content"
+				android:id="@+id/textView1_2" style="@style/content"></TextView>
+		</TableRow>
+		
+		<TableRow>
+		<ImageView android:id="@+id/imageView3" android:src="@drawable/a3_4" android:layout_height="wrap_content" android:layout_width="wrap_content"></ImageView>
+			<!-- <TextView android:text=" 3-4 " android:padding="3dip" android:textSize="6pt" android:textStyle="bold"></TextView>
+			 -->
+			<TextView android:layout_width="wrap_content"  android:layout_weight="1"
+				android:layout_height="wrap_content" android:textSize="7pt" android:id="@+id/textView2" style="@style/content"></TextView>
+			<TextView android:text="TextView" android:textSize="7pt"
+				android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_weight="2"
+				android:id="@+id/textView2_2" style="@style/content"></TextView>
+		</TableRow>
+		
+		<TableRow>
+		<ImageView android:id="@+id/imageView3" android:src="@drawable/a5_6" android:layout_height="wrap_content" android:layout_width="wrap_content"></ImageView>
+			<!-- <TextView android:text=" 5-6 " android:padding="3dip" android:textColor="#693" android:textSize="6pt" android:textStyle="bold"></TextView>
+			 --><TextView android:layout_width="wrap_content" android:layout_weight="1"
+				android:layout_height="wrap_content" android:textSize="7pt" android:id="@+id/textView3" style="@style/content"></TextView>
+			<TextView android:text="TextView" android:textSize="7pt"
+				android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_weight="2"
+				android:id="@+id/textView3_2" style="@style/content"></TextView>
+		</TableRow>
+		<TableRow>
+		<ImageView android:id="@+id/imageView3" android:src="@drawable/a7_8" android:layout_height="wrap_content" android:layout_width="wrap_content"></ImageView>
+			<!--<TextView android:text=" 7-8 " android:padding="3dip" android:textSize="6pt" android:textStyle="bold"></TextView>
+			 --><TextView android:layout_width="wrap_content" android:layout_weight="1"
+				android:layout_height="wrap_content" android:textSize="7pt" android:id="@+id/textView4" style="@style/content"></TextView>
+			<TextView android:text="TextView" android:textSize="7pt"
+				android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_weight="2"
+				android:id="@+id/textView4_2" style="@style/content"></TextView>
+		</TableRow>
+			
+		<TableRow>
+		<ImageView android:id="@+id/imageView3" android:src="@drawable/a9_10" android:layout_height="wrap_content" android:layout_width="wrap_content"></ImageView>
+			<!-- <TextView android:text=" 9-10" android:padding="3dip" android:textColor="#693" android:textSize="6pt" android:textStyle="bold"></TextView>
+			 --><TextView android:layout_width="wrap_content" android:layout_weight="1"
+				android:layout_height="wrap_content" android:textSize="7pt" android:id="@+id/textView5" style="@style/content"></TextView>
+			<TextView android:text="TextView" android:textSize="7pt"
+				android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_weight="2"
+				android:id="@+id/textView5_2" style="@style/content"></TextView>
+		</TableRow>
+		<TableRow>
+		<ImageView android:id="@+id/imageView3" android:src="@drawable/a11_12" android:layout_height="wrap_content" android:layout_width="wrap_content"></ImageView>
+			<!-- <TextView android:text="11-12 " android:padding="3dip" android:textSize="6pt" android:textStyle="bold"></TextView>
+		-->	<TextView android:layout_width="wrap_content" android:layout_weight="1"
+				android:layout_height="wrap_content" android:textSize="7pt" android:id="@+id/textView6" style="@style/content"></TextView>
+			<TextView android:text="TextView" android:textSize="7pt"
+				android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_weight="2"
+				android:id="@+id/textView6_2" style="@style/content"></TextView>
+		</TableRow>
+	</TableLayout>
+	<TableLayout android:layout_width="fill_parent" android:id="@+id/tableLayout1"
+		android:layout_height="wrap_content">
+	</TableLayout>
+  <SlidingDrawer 
+    android:id="@+id/drawer1" 
+    android:layout_width="fill_parent" 
+    android:layout_height="fill_parent" 
+    android:handle="@+id/layout1" 
+    android:content="@+id/myContent1" 
+    android:orientation="vertical"
+  >
+    <LinearLayout 
+      android:id="@id/layout1" 
+      android:layout_width="fill_parent" 
+      android:layout_height="35px"
+      android:gravity="center"
+    >
+      <ImageView
+        android:id="@+id/myImage1" 
+        android:layout_width="wrap_content" 
+        android:layout_height="wrap_content" 
+        android:src="@drawable/open"
+      />
+    </LinearLayout>
+    <GridView 
+      android:id="@+id/myContent1"
+      android:layout_width="wrap_content" 
+      android:layout_height="wrap_content" 
+      android:numColumns="2"
+      android:gravity="center"
+    />       
+  </SlidingDrawer>
+</RelativeLayout>
+</LinearLayout>

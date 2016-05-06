@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+
+ android:background="@drawable/bg_cal_card9"
+    >
+
+ <TextView android:id="@+id/widgeView0" android:layout_width="wrap_content" android:text="" android:layout_height="wrap_content"></TextView>
+    
+        <LinearLayout android:layout_width="match_parent" android:id="@+id/linearLayout1" android:layout_height="wrap_content">
+         <TextView android:id="@+id/widgetText1" android:gravity="center" android:singleLine="false"  android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="      今天课程          " android:textColor="#693" android:layout_x="4dp" android:layout_y="4dp"></TextView>
+       
+        <Button android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="" android:id="@+id/but" android:background="@drawable/ic_repeat_dark"></Button>
+        </LinearLayout>
+        <TextView android:text="" android:id="@+id/textView1" android:layout_width="wrap_content" android:layout_height="wrap_content"></TextView>
+       <TextView android:text="" android:id="@+id/widgetText2" android:layout_width="wrap_content" android:layout_height="wrap_content"  android:textColor="#000000" ></TextView>
+       
+        <TextView android:text="" android:id="@+id/widgetText3" android:layout_width="wrap_content" android:layout_height="wrap_content" android:textColor="#000000"  ></TextView>
+         <TextView android:text="" android:id="@+id/widgetText4" android:layout_width="wrap_content" android:layout_height="wrap_content"  android:textColor="#000000" ></TextView>
+          <TextView android:text="" android:id="@+id/widgetText5" android:layout_width="wrap_content" android:layout_height="wrap_content"  android:textColor="#000000" ></TextView>
+           <TextView android:text="" android:id="@+id/widgetText6" android:layout_width="wrap_content" android:layout_height="wrap_content"  android:textColor="#000000" ></TextView>
+            <TextView android:text="" android:id="@+id/widgetText7" android:layout_width="wrap_content" android:layout_height="wrap_content" android:textColor="#000000"  ></TextView>
+
+</LinearLayout>

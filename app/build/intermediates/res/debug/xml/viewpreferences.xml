@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <Preference android:key="@string/view_1"></Preference>
+    <Preference android:key="@string/view_2"></Preference>
+    <Preference android:key="@string/view_3"></Preference>
+    <Preference android:key="@string/view_4"></Preference>
+    <Preference android:key="@string/view_5"></Preference>
+    <Preference android:key="@string/view_6"></Preference>
+</PreferenceScreen>
+<!-- From: file:/C:/Users/jesse/AndroidStudioProjects/Schedule/app/src/main/res/xml/viewpreferences.xml -->

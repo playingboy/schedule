@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 课节设置界面需要要到的数组 -->
+	<string-array name="bg_entry">
+		<item>水花</item>
+		<item>星空</item>
+		<item>海岸-明</item>
+		<item>海岸-暗</item>
+	</string-array>
+	<string-array name="bg_value">
+		<item>水花</item>
+		<item>星空</item>
+		<item>海岸-明</item>
+		<item>海岸-暗</item>
+	</string-array>
+
+</resources>

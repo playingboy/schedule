@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, Main!</string>
+    <string name="app_name">重庆大学课表</string>
+     <string name="app_name_cn">重庆大学课表</string>
+    <string name="exit">退出</string>
+    <string name="about">关于</string>
+    <string name="aboutcontent">重庆大学课表-0.1Beta版</string>
+    <string name="aboutweb">www.baiyun.net</string>
+    <string name ="yes">确定</string>
+    <string name="editclass">编辑课表</string>
+       <string name="system_set">设置</string>
+    <string name="now">   今天课程</string>
+    <string name="auto_update_frequency_title">选择星期</string>
+    <string name="auto_update_frequency_key">auto_update_frequency</string>
+    <string name="auto_update_frequency_default_value">10</string>
+    <string name="auto_update_frequency_summary"></string>
+      <string name="class_no_title">选择课节</string>
+    <string name="class_no_key">class_no</string>
+    <string name="class_no_default_value">1-2</string>
+    <string name ="class_start_week_title">选择开始周</string>
+    <string name ="class_start_week_key">class_start_week</string>
+    <string name="class_start_week_default_value">1</string>
+    <string name ="class_end_week_title">选择结束周</string>
+    <string name ="class_end_week_key">class_end_week</string>
+    <string name="class_end_week_default_value">1</string>
+    <string name="cancel">取消</string>
+
+     <string name="classdetail_title">课程详情</string>
+      <string name="classdetail_key">classdetail</string>
+     <string name ="reload">刷新</string>
+     <string name="class_name">名称</string>
+     <string name ="class_address">地点</string>
+     <string name ="view_1">view_1</string>
+     <string name ="view_2">view_2</string>
+     <string name ="view_3">view_3</string>
+     <string name ="view_4">view_4</string>
+     <string name ="view_5">view_5</string>
+     <string name ="view_6">view_6</string>
+           <string name="bg_title">背景</string>
+    <string name="bg_key">bg</string>
+    <string name="bg_default_value">0</string>
+    <string name="set">设置</string>
+    <string name="startterm">开学日期</string>
+    <string name ="startterm_set">设置开学日期</string>
+   <string name="startterm_key">startterm</string>
+    <string name="leading_in">导入</string>
+</resources>

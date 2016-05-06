@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="match_parent" android:layout_height="wrap_content" android:orientation="vertical"
+	 android:id="@+id/termlayout" 
+style="@style/bg1"
+	>
+   <TableLayout android:layout_width="fill_parent" android:id="@+id/tableLayout1_1"
+		android:layout_height="wrap_content" android:stretchColumns="2"    >
+		 <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:id="@+id/textView1" android:text="@string/startterm_set"></TextView>
+		
+		<DatePicker android:id="@+id/datePicker1" android:layout_width="wrap_content" android:layout_height="wrap_content"></DatePicker>
+
+		<TableRow  android:gravity="center">
+		  <Button android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/yes" android:id="@+id/buttonok"></Button>
+   <Button android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/cancel" android:id="@+id/buttoncal"></Button>
+		</TableRow>
+       
+	</TableLayout>
+   <TextView android:id="@+id/textView_runtime" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="TextView"></TextView>
+  </LinearLayout>
+<!-- From: file:/C:/Users/jesse/AndroidStudioProjects/Schedule/app/src/main/res/layout/term.xml -->
